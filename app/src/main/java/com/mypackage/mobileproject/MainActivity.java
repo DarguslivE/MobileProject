@@ -47,5 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(this, LifecycleActivity.class)));
         findViewById(R.id.btnGeolocation).setOnClickListener(v ->
                 startActivity(new Intent(this, GeolocationActivity.class)));
+        findViewById(R.id.btnPie).setOnClickListener(v ->
+                startActivity(new Intent(this, PieChartActivity.class)));
     }
 }
