@@ -1,0 +1,23 @@
+<resources>
+    <string name="hello_text">Hello Android World!</string>
+    <string name="app_name">MobileProject</string>
+    <string name="edit_message">Enter your text here</string>
+    <string name="go">Go!</string>
+    <string name="site_prefix">Источник: </string>
+    <string name="enjoy">Enjoy yourself!</string>
+    <string name="can">Канары</string>
+    <string name="cur">Курилы</string>
+    <string name="mal">Мальдивы</string>
+    <string name="phil">Филиппины</string>
+    <string name="vacation_title">Куда бы поехать в отпуск?</string>
+    <string name="bg">Выбрать фон</string>
+    <string name="message">Хотите поменять фон?</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+    <string name="guide_title">Гид по городу</string>
+    <string name="actions">Действия</string>
+    <string name="act_route">Построить маршрут</string>
+    <string name="act_fav">В избранное</string>
+    <string name="act_photos">Фото и карта</string>
+</resources>

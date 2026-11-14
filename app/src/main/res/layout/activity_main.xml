@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <Button android:id="@+id/btnHello" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л1 Hello world" />
+    <Button android:id="@+id/btnLifecycle" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л1 Состояния Activity" />
+    <Button android:id="@+id/btnRating" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л2 A. RatingImages" />
+    <Button android:id="@+id/btnIslands" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л2 B1. Куда поехать в отпуск" />
+    <Button android:id="@+id/btnDialog" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л2 B2. Диалог" />
+    <Button android:id="@+id/btnSwipe" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л2 B3. Вкладки и свайп" />
+    <Button
+        android:id="@+id/btnMyApp" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л2 C. Мой прототип: Гид по городу" />
+    <Button android:id="@+id/btnGestAll" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л3 A1. Все жесты" />
+    <Button android:id="@+id/btnGestSubset" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л3 A2. Часть жестов" />
+    <Button android:id="@+id/btnRecorder" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л3 B1. Запись жестов" />
+    <Button android:id="@+id/btnGestures" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л3 B2. Распознавание жестов" />
+    <Button android:id="@+id/btnGuess" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л3 C. Угадайка" />
+    <Button android:id="@+id/btnGeolocation" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л4. Геолокация" />
+</LinearLayout>
