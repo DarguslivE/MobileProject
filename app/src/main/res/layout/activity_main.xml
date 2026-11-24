@@ -35,4 +35,7 @@
         android:layout_height="wrap_content" android:text="Л4. Геолокация" />
     <Button android:id="@+id/btnPie" android:layout_width="match_parent"
         android:layout_height="wrap_content" android:text="Л4. График MPAndroidChart" />
+    <Button
+        android:id="@+id/btnSqlite" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Л5. SQLite" />
 </LinearLayout>

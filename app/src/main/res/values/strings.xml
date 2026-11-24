@@ -20,4 +20,10 @@
     <string name="act_route">Построить маршрут</string>
     <string name="act_fav">В избранное</string>
     <string name="act_photos">Фото и карта</string>
+    <string name="field1_hint">Field 1</string>
+    <string name="field2_hint">Field 2</string>
+    <string name="btn_insert">Ввод данных</string>
+    <string name="btn_read">Вывод данных</string>
+    <string name="btn_delete">Delete</string>
+    <string name="db_result_hint">Data</string>
 </resources>
